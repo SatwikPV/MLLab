@@ -1,0 +1,1 @@
+It is an implementation of k-means clustering algorithm without scikit learn.
